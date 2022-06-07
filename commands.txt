@@ -1,0 +1,5 @@
+cd .. & cd ..
+ls
+cd Documents & ls & cd ..
+ls
+exit

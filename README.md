@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a an assignment for CSCI 340: Operating Systems with Dr. Ralph Crosby. We had about 3 weeks to complete the project with a partner. This project is a custom-made shell using GO. The shell will execute `cd {directory}`, `ls`, and `exit` as built in functions. The shell will pass all other commands to the main terminal and return the intened output.
+This project is a an assignment for CSCI 340: Operating Systems with Dr. Ralph Crosby. We had about 3 weeks to complete the project with a partner. This project is a custom-made shell using GO. The shell will execute `cd {directory}`, `ls`, and `exit` as built in functions. The shell will pass all other commands to the main terminal and return the intened output. The program will also run commands from a text file.
 
 Run this command in a terminal: > `go run project3.go` 
 
